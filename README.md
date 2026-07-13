@@ -9,3 +9,5 @@ currently interested in embedded development, writing
 also fiddling with
 [my systems](https://git.iw2tryhard.dev/itscrystalline/nixos-config) and my
 [editor setup](https://git.iw2tryhard.dev/itscrystalline/sanzenvim)
+
+part of [TechTransThai](https://techtransthai.org/)
